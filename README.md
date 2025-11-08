@@ -126,5 +126,9 @@ We welcome PRs! See **[CONTRIBUTING.md](./CONTRIBUTING.md)**.
 MIT — see **[LICENSE](./LICENSE)**.
 
 <p align="center">
-  <sub>Maintained by <a href="https://communityone.io">CommunityOne</a> · Join <a href="https://www.reddit.com/r/GrowYourDiscord">r/GrowYourDiscord</a></sub>
+  <sub>
+    Maintained by <a href="https://communityone.io">CommunityOne</a> · 
+    Join the discussion on <a href="https://www.reddit.com/r/GrowYourDiscord">r/GrowYourDiscord</a> · 
+    <a href="https://discord.gg/nVqt3z78Mw">Join our Discord</a>
+  </sub>
 </p>
