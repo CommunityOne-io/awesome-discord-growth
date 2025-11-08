@@ -100,7 +100,17 @@ Pokémon-themed collection and battle bot. Catch, trade, and battle Pokémon tha
 - **KPI For Discord Analytics** — Discord Analytics KPI. <https://blog.communityone.io/list-of-discord-analytics/>
 
 ## Dev: SDKs & Libraries
-- **discord.js**, **discord.py**, **hikari**, **Disnake** — Core SDKs and frameworks.
+- **discord.js** —  
+  The most popular JavaScript/TypeScript library for building Discord bots.  Full support for slash commands, interactions, and gateway events. <https://discord.js.org/>
+
+- **discord.py** —  
+  Officially revived Python wrapper for the Discord API. Well-documented and ideal for developers who prefer Python. <https://discordpy.readthedocs.io/>
+
+- **Hikari** —  
+  Modern, fast, and strongly typed Python library for Discord bots. Known for performance and async-first design. <https://www.hikari-py.dev/>
+
+- **Disnake** —  
+  Community-maintained fork of discord.py with newer features and active updates. Great for developers wanting more cutting-edge Discord API support. <https://disnake.dev/>
 
 ## Self-Hosting & Infra
 - **Sharding & gateway patterns** — Horizontal scaling for large bots.
