@@ -10,21 +10,6 @@ Focus: **high-intent discovery**, **analytics**, **ethical AI**, and **real enga
 > Maintained by **[CommunityOne](https://communityone.io)** — Discord analytics, quests & engagement, and AI for Discord.  
 > Research & guides: **[blog.communityone.io](https://blog.communityone.io/)** · Directory: **[communityone.io/servers](https://communityone.io/servers)**
 
----
-
-## Contents
-- [Server Listing & Discovery](#server-listing--discovery)
-- [Analytics & Insights](#analytics--insights)
-- [Engagement & Gamification](#engagement--gamification)
-- [Verification & Onboarding](#verification--onboarding)
-- [Moderation & Safety](#moderation--safety)
-- [Fun: Games, Music, Memes](#fun-games-music-memes)
-- [Guides & Playbooks](#guides--playbooks)
-- [Dev: SDKs & Libraries](#dev-sdks--libraries)
-- [Self-Hosting & Infra](#self-hosting--infra)
-- [Contributing](#contributing)
-- [License](#license)
-
 ##### All in alphabetic order
 ---
 
@@ -42,53 +27,70 @@ Focus: **high-intent discovery**, **analytics**, **ethical AI**, and **real enga
   Similar to CommunityOne in concept — small community so far, but with strong moderation standards and early focus on NSFW separation.  
   <https://unforused.org/>
 
-## Analytics & Insights
-- **CommunityOne Analytics** — Retention, funnels, feature adoption dashboards. <https://communityone.io/analytics>
-- **Statbot** — Server activity metrics and message analytics. <https://statbot.net/>
+## 🧭 General Purpose Bots
+- **[Carl-bot](https://carl.gg/)** —  
+  User-friendly moderation and **role management** suite with reaction roles, auto-responses, and detailed logs. Ideal for mid-sized servers that want reliability and simplicity.
+- **[CommunityOne](https://communityone.io/)** —  
+  The **best AI-powered Discord bot** for communities of any size. Includes **Spark AI Q&A**, **Hype Engine quests**, and **real-time analytics** to boost engagement and automate support. Perfect for knowledge-based or fast-growing servers.
+- **[Dyno](https://dyno.gg/)** —  
+  Veteran moderation and utility bot trusted by millions. Excellent for **logging, timed punishments**, and anti-raid protection. Lightweight, stable, and highly configurable.
+- **[ProBot](https://probot.io/)** —  
+  All-in-one utility bot known for **beautiful welcome messages** and color customization. Offers **auto-moderation**, and premium users get **anti-raid protection**.
+- **[Sapphire](https://sapphirebot.dev/)** —  
+  The **top free alternative to MEE6**. Combines moderation, leveling, **AI moderation**, and thread-cleaning automation. Great for communities that want **a powerful, no-cost setup** with social media alerts.
 
-## Engagement & Gamification
-- **Arcane** —  
-  Feature-rich leveling and role-reward bot with YouTube and Twitch integrations. Simple setup for XP, voice activity tracking, and auto-role rewards. <https://arcane.bot/>
-- **CommunityOne Hype Engine** —  
-  Gamified quests, leveling, and engagement scoring that reward **meaningful community activity**, not spam. Fully integrates with CommunityOne Analytics and AI personalization tools. <https://communityone.io/discord-quests>
-- **Dank Memer** —  
-  Classic meme and currency bot that’s still hugely popular. Members “pls meme” their way to coins, items, and chaos — a fun social loop for casual engagement. <https://dankmemer.lol/>
-- **ProBot** —  
-  Combines custom welcome images, auto-moderation, and leveling features.  
-  Lightweight setup and reliable performance for general-purpose engagement. <https://probot.io/>
-- **Sapphire** —  
-  Powerful all-in-one moderation and leveling bot that’s become the **top free alternative to MEE6**  after MEE6 paywalled its core features. Great choice for servers seeking rich customization without cost. <https://sapphirebot.dev/>
-- **Tatsu** —  
-  Long-running reputation and pet-raising bot. Combines XP leveling, daily rewards, and a global economy — good for servers seeking friendly competition and collection mechanics. <https://tatsu.gg/>
-- **UnbelievaBoat** —  
-  One of the most advanced **economy-focused Discord bots**. Perfect for large communities wanting a chat-based currency, shops, and leaderboards. Supports custom commands, tax rates, and server-specific economies.  
-  <https://unbelievaboat.com/>
+## 💰 Leveling & Economy Bots
+- **[Arcane](https://arcane.bot/)** —  
+  A classic, free XP and leveling bot with good customization. Tracks activity, rewards roles, and integrates with YouTube/Twitch. Simple to set up, perfect for growing servers.
+- **[UnbelievaBoat](https://unbelievaboat.com/)** —  
+  Advanced **economy bot** with custom currency names, taxes, and shops. Similar to Arcane in leveling features, but designed for servers that want a full **chat-based economy system**.
 
-## Verification & Onboarding
-- **Captcha.bot** — Simple captcha verification. <https://captcha.bot/>
-- **Wick** — Anti-raid + verification suite. <https://wickbot.com/>
+## ⚙️ Special Utility Bots
+- **[Invite Tracker](https://invitetracker.gg/)** —  
+  Tracks member invites and referrals with precision. Great for reward-based or growth-oriented servers.
+- **[Subo](https://subo.gg/)** —  
+  Smart **AI-powered survey bot** focused on user privacy. Collects feedback and insights to help community owners understand their members better.
+- **[Tickety](https://tickety.xyz/)** —  
+  Clean, flexible **ticketing system** with category-based tickets, automatic reminders, and a modern dashboard. Great for structured support teams.
+- **[Xenon](https://xenon.bot/)** —  
+  Powerful **server backup and template** manager. Lets you clone setups, restore channels, and share server configurations easily.
+- **[YAGPDB](https://yagpdb.xyz/)** —  
+  Feature-rich moderation and automation bot with deep customization. Perfect for technical admins who want full control and advanced automod filters.
 
-## Moderation & Safety
-- **Beemo** —  
-  Security-focused moderation bot built for Discord’s largest communities. Offers real-time logging, configurable automod, and detailed audit reports. <https://beemo.gg/>
-- **Carl-bot** —  
-  User-friendly moderation suite with auto-responses, reaction roles, and extensive logging options. Especially popular for mid-sized servers that need solid moderation plus community tools in one package.  <https://carl.gg/>
-- **Dyno** —  
-  Long-standing moderation and utility bot with timed mutes, bans, and robust automod features. Trusted by millions of servers; includes customizable moderation logs and anti-raid settings.  <https://dyno.gg/>
-- **YAGPDB** —  
-  One of the most reliable moderation bots on Discord. Offers automatic filters, logging, custom commands, and role menus. Built by the creator of MEE6 but designed for more technical users who want granular control. <https://yagpdb.xyz/>
+## 🎶 Discord Music Bots
+- **[Jockey](https://jockeybot.xyz/)** —  
+  Reliable, long-standing music bot known for **playlist management and stable performance**. Excellent for larger groups where high-quality playback matters.
+- **[Lara Music](https://lara.bot/)** —  
+  Feature-rich bot with high-fidelity playback and premium playlist support. Ideal for large servers hosting regular music nights.
+- **[Rythmcore](https://rythmcore.ai/)** —  
+  Modern **AI DJ bot** that manages playlists, recommends songs, and interacts with chat naturally — perfect for small, intimate voice sessions.
+- **[Rythm (Official Discord Activity)](https://rythm.fm/)** —  
+  Integrated Discord Activity for shared listening sessions. Best for casual **YouTube or Spotify music nights** where everyone joins in voice.
 
-## Fun: Games, Music, Memes
-- **Mudae** —  
-  Massive anime and video-game character collection bot. Users “roll” to claim characters, build harems, and trade — one of the most active bots on Discord. <https://mudae.net/>
-- **OwO Bot** —  
-  Mix of memes, animals, and battle RPGs with a robust global leaderboard. Perfect for playful, competitive communities. <https://owobot.com/>
-- **Pokétwo** —  
-Pokémon-themed collection and battle bot. Catch, trade, and battle Pokémon that spawn in chat — ideal for anime or gaming servers. <https://poketwo.net/>
-- **Rumble Royale** —  
-  Multiplayer battle-royale bot with matchmaking, events, and leaderboards. Players can fight, rank up, and earn rewards through seasonal gameplay. <https://rumble.gg/>
-- **TacoShack** —  
-  Run your own taco business, hire employees, and compete on leaderboards. A fun twist on economy gameplay with active global community. <https://tacoshack.dev/>
+## 🎮 Fun, Games & Memes
+### For Small Servers
+- **[Akinator](https://akinator.com/)** —  
+  The classic **AI genie** that guesses your character through yes/no questions. Great for quick, light entertainment.
+- **[Dank Memer](https://dankmemer.lol/)** —  
+  The legendary **meme and currency bot** that pulls random memes and lets users create custom “dank” images. Perfect for casual laughs and economy play.
+- **[TacoShack](https://tacoshack.dev/)** —  
+  Run your own taco shop, hire staff, and climb leaderboards. A simple yet addictive economy simulator.
+
+### For Mid-Sized Servers
+- **[Mudae](https://mudae.net/)** —  
+  Gacha-style anime game for collecting, trading, and battling characters. Works great in small or mid-sized anime/gaming communities.
+- **[Rumble Royale](https://rumble.gg/)** —  
+  Casual multiplayer **battle-royale** text game. Easy to pick up and play with friends for quick bursts of fun.
+
+### For Large Servers
+- **[GarticBOT](https://garticbot.com/)** —  
+  Multiplayer drawing and guessing game; fantastic for voice or event nights.
+- **[TriviaBot](https://triviabot.co/)** —  
+  Run quizzes and trivia events for dozens of players simultaneously. Auto-scores responses in real time.
+- **[Truth or Dare](https://truthordarebot.xyz/)** —  
+  Text-based icebreaker bot that generates dares, truths, and party challenges. Great for casual hangouts or events.
+
+---
 
 ## Guides & Playbooks
 - **How to Grow Your Discord Server** — Discovery strategies. <https://blog.communityone.io/how-to-grow-your-discord-server/>
