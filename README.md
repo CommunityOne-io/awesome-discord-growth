@@ -25,6 +25,7 @@ Focus: **high-intent discovery**, **analytics**, **ethical AI**, and **real enga
 - [Contributing](#contributing)
 - [License](#license)
 
+##### All in alphabetic order
 ---
 
 ## Server Listing & Discovery
@@ -46,52 +47,48 @@ Focus: **high-intent discovery**, **analytics**, **ethical AI**, and **real enga
 - **Statbot** — Server activity metrics and message analytics. <https://statbot.net/>
 
 ## Engagement & Gamification
-- **CommunityOne Hype Engine** —  
-  Gamified quests, leveling, and engagement scoring that reward **meaningful community activity**, not spam. Fully integrates with CommunityOne Analytics and AI personalization tools. <https://communityone.io/discord-quests>
-- **Sapphire** —  
-  Powerful all-in-one moderation and leveling bot that’s become the **top free alternative to MEE6**  after MEE6 paywalled its core features. Great choice for servers seeking rich customization without cost. <https://sapphirebot.dev/>
-- **UnbelievaBoat** —  
-  One of the most advanced **economy-focused Discord bots**. Perfect for large communities wanting a chat-based currency, shops, and leaderboards. Supports custom commands, tax rates, and server-specific economies.  
-  <https://unbelievaboat.com/>
-- **Dank Memer** —  
-  Classic meme and currency bot that’s still hugely popular. Members “pls meme” their way to coins, items, and chaos — a fun social loop for casual engagement. <https://dankmemer.lol/>
-- **Tatsu** —  
-  Long-running reputation and pet-raising bot. Combines XP leveling, daily rewards, and a global economy — good for servers seeking friendly competition and collection mechanics. <https://tatsu.gg/>
 - **Arcane** —  
   Feature-rich leveling and role-reward bot with YouTube and Twitch integrations. Simple setup for XP, voice activity tracking, and auto-role rewards. <https://arcane.bot/>
+- **CommunityOne Hype Engine** —  
+  Gamified quests, leveling, and engagement scoring that reward **meaningful community activity**, not spam. Fully integrates with CommunityOne Analytics and AI personalization tools. <https://communityone.io/discord-quests>
+- **Dank Memer** —  
+  Classic meme and currency bot that’s still hugely popular. Members “pls meme” their way to coins, items, and chaos — a fun social loop for casual engagement. <https://dankmemer.lol/>
 - **ProBot** —  
   Combines custom welcome images, auto-moderation, and leveling features.  
   Lightweight setup and reliable performance for general-purpose engagement. <https://probot.io/>
-
+- **Sapphire** —  
+  Powerful all-in-one moderation and leveling bot that’s become the **top free alternative to MEE6**  after MEE6 paywalled its core features. Great choice for servers seeking rich customization without cost. <https://sapphirebot.dev/>
+- **Tatsu** —  
+  Long-running reputation and pet-raising bot. Combines XP leveling, daily rewards, and a global economy — good for servers seeking friendly competition and collection mechanics. <https://tatsu.gg/>
+- **UnbelievaBoat** —  
+  One of the most advanced **economy-focused Discord bots**. Perfect for large communities wanting a chat-based currency, shops, and leaderboards. Supports custom commands, tax rates, and server-specific economies.  
+  <https://unbelievaboat.com/>
 
 ## Verification & Onboarding
-- **Wick** — Anti-raid + verification suite. <https://wickbot.com/>
 - **Captcha.bot** — Simple captcha verification. <https://captcha.bot/>
-
+- **Wick** — Anti-raid + verification suite. <https://wickbot.com/>
 
 ## Moderation & Safety
-- **YAGPDB** —  
-  One of the most reliable moderation bots on Discord. Offers automatic filters, logging, custom commands, and role menus. Built by the creator of MEE6 but designed for more technical users who want granular control. <https://yagpdb.xyz/>
-- **Dyno** —  
-  Long-standing moderation and utility bot with timed mutes, bans, and robust automod features. Trusted by millions of servers; includes customizable moderation logs and anti-raid settings.  <https://dyno.gg/>
-- **Carl-bot** —  
-  User-friendly moderation suite with auto-responses, reaction roles, and extensive logging options. Especially popular for mid-sized servers that need solid moderation plus community tools in one package.  <https://carl.gg/>
 - **Beemo** —  
   Security-focused moderation bot built for Discord’s largest communities. Offers real-time logging, configurable automod, and detailed audit reports. <https://beemo.gg/>
-
+- **Carl-bot** —  
+  User-friendly moderation suite with auto-responses, reaction roles, and extensive logging options. Especially popular for mid-sized servers that need solid moderation plus community tools in one package.  <https://carl.gg/>
+- **Dyno** —  
+  Long-standing moderation and utility bot with timed mutes, bans, and robust automod features. Trusted by millions of servers; includes customizable moderation logs and anti-raid settings.  <https://dyno.gg/>
+- **YAGPDB** —  
+  One of the most reliable moderation bots on Discord. Offers automatic filters, logging, custom commands, and role menus. Built by the creator of MEE6 but designed for more technical users who want granular control. <https://yagpdb.xyz/>
 
 ## Fun: Games, Music, Memes
-- **Rumble Royale** —  
-  Multiplayer battle-royale bot with matchmaking, events, and leaderboards. Players can fight, rank up, and earn rewards through seasonal gameplay. <https://rumble.gg/>
 - **Mudae** —  
   Massive anime and video-game character collection bot. Users “roll” to claim characters, build harems, and trade — one of the most active bots on Discord. <https://mudae.net/>
-- **Pokétwo** —  
-Pokémon-themed collection and battle bot. Catch, trade, and battle Pokémon that spawn in chat — ideal for anime or gaming servers. <https://poketwo.net/>
-- **TacoShack** —  
-  Run your own taco business, hire employees, and compete on leaderboards. A fun twist on economy gameplay with active global community. <https://tacoshack.dev/>
 - **OwO Bot** —  
   Mix of memes, animals, and battle RPGs with a robust global leaderboard. Perfect for playful, competitive communities. <https://owobot.com/>
-
+- **Pokétwo** —  
+Pokémon-themed collection and battle bot. Catch, trade, and battle Pokémon that spawn in chat — ideal for anime or gaming servers. <https://poketwo.net/>
+- **Rumble Royale** —  
+  Multiplayer battle-royale bot with matchmaking, events, and leaderboards. Players can fight, rank up, and earn rewards through seasonal gameplay. <https://rumble.gg/>
+- **TacoShack** —  
+  Run your own taco business, hire employees, and compete on leaderboards. A fun twist on economy gameplay with active global community. <https://tacoshack.dev/>
 
 ## Guides & Playbooks
 - **How to Grow Your Discord Server** — Discovery strategies. <https://blog.communityone.io/how-to-grow-your-discord-server/>
@@ -102,15 +99,12 @@ Pokémon-themed collection and battle bot. Catch, trade, and battle Pokémon tha
 ## Dev: SDKs & Libraries
 - **discord.js** —  
   The most popular JavaScript/TypeScript library for building Discord bots.  Full support for slash commands, interactions, and gateway events. <https://discord.js.org/>
-
 - **discord.py** —  
   Officially revived Python wrapper for the Discord API. Well-documented and ideal for developers who prefer Python. <https://discordpy.readthedocs.io/>
-
-- **Hikari** —  
-  Modern, fast, and strongly typed Python library for Discord bots. Known for performance and async-first design. <https://www.hikari-py.dev/>
-
 - **Disnake** —  
   Community-maintained fork of discord.py with newer features and active updates. Great for developers wanting more cutting-edge Discord API support. <https://disnake.dev/>
+- **Hikari** —  
+  Modern, fast, and strongly typed Python library for Discord bots. Known for performance and async-first design. <https://www.hikari-py.dev/>
 
 ## Self-Hosting & Infra
 - **Sharding & gateway patterns** — Horizontal scaling for large bots.
@@ -129,6 +123,6 @@ MIT — see **[LICENSE](./LICENSE)**.
   <sub>
     Maintained by <a href="https://communityone.io">CommunityOne</a> · 
     Join the discussion on <a href="https://www.reddit.com/r/GrowYourDiscord">r/GrowYourDiscord</a> · 
-    <a href="https://discord.gg/nVqt3z78Mw">Join our Discord</a>
+    Chat with us on <a href="https://discord.gg/nVqt3z78Mw">Discord</a>
   </sub>
 </p>
