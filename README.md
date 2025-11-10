@@ -56,6 +56,9 @@ Focus: **high-intent discovery**, **analytics**, **ethical AI**, and **real enga
   Powerful **server backup and template** manager. Lets you clone setups, restore channels, and share server configurations easily.
 - **[YAGPDB](https://yagpdb.xyz/)** —  
   Feature-rich moderation and automation bot with deep customization. Perfect for technical admins who want full control and advanced automod filters.
+- **[Beemo](https://beemo.gg/)** —  
+  A **multi-purpose moderation and utility bot** with smart logging, customizable automod, and clever role tools. Known for reliability and ease of use in managing large communities.
+
 
 ## 🎶 Discord Music Bots
 - **[Jockey](https://jockeybot.xyz/)** —  
