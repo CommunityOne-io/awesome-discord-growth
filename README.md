@@ -23,9 +23,6 @@ Focus: **high-intent discovery**, **analytics**, **ethical AI**, and **real enga
   <https://discadia.com/>
 - **Discord.me** — The **third-largest** listing site. Best known for clean data separation: it naturally separates **SFW** and **NSFW** servers, giving better targeting and analytics quality.  
   <https://discord.me/>
-- **Unforused.org** — New and niche, but promising.  
-  Similar to CommunityOne in concept — small community so far, but with strong moderation standards and early focus on NSFW separation.  
-  <https://unforused.org/>
 
 ## 🧭 General Purpose Bots
 - **[Carl-bot](https://carl.gg/)** —  
