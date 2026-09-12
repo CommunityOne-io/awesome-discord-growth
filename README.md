@@ -93,6 +93,8 @@ Focus: **high-intent discovery**, **analytics**, **ethical AI**, and **real enga
 ## 🆙 Up and coming bots
 Discord bot developers: If you're actively working on a bot with a public repository, feel free to submit a PR and we'll give you a shoutout!
 
+- **[Botik](https://github.com/777genius/discord-meeting-assistant)** — Self-hosted meeting assistant: records Discord calls, transcripts, summaries, Q&A.
+
 ---
 
 ## Guides & Playbooks
