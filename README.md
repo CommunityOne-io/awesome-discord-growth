@@ -35,6 +35,8 @@ Focus: **high-intent discovery**, **analytics**, **ethical AI**, and **real enga
   All-in-one utility bot known for **beautiful welcome messages** and color customization. Offers **auto-moderation**, and premium users get **anti-raid protection**.
 - **[Sapphire](https://sapphirebot.dev/)** —  
   The **top free alternative to MEE6**. Combines moderation, leveling, **AI moderation**, and thread-cleaning automation. Great for communities that want **a powerful, no-cost setup** with social media alerts.
+- **[VeyroBot](https://veyrobot.xyz/)** —  
+  Runs moderation, security and community features from one web dashboard; scores server health.
 
 ## 💰 Leveling & Economy Bots
 - **[Arcane](https://arcane.bot/)** —  
