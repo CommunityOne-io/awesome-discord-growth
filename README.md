@@ -43,6 +43,8 @@ Focus: **high-intent discovery**, **analytics**, **ethical AI**, and **real enga
   Advanced **economy bot** with custom currency names, taxes, and shops. Similar to Arcane in leveling features, but designed for servers that want a full **chat-based economy system**.
 
 ## ⚙️ Special Utility Bots
+- **[BabelBot](https://babelbot.app/)** —  
+  Auto-translates server chat into 130+ languages. Replies, threads, language channels, voice chat.
 - **[Invite Tracker](https://invitetracker.gg/)** —  
   Tracks member invites and referrals with precision. Great for reward-based or growth-oriented servers.
 - **[Subo](https://subo.gg/)** —  
