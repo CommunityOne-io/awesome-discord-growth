@@ -93,6 +93,9 @@ Focus: **high-intent discovery**, **analytics**, **ethical AI**, and **real enga
 ## 🆙 Up and coming bots
 Discord bot developers: If you're actively working on a bot with a public repository, feel free to submit a PR and we'll give you a shoutout!
 
+- **[BOLBOT](https://github.com/ManveerAnand/BOLBOT)** —  
+  Free, open-source bot that translates every message both ways, running on your own PC or Mac.
+
 ---
 
 ## Guides & Playbooks
