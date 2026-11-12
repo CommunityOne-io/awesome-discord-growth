@@ -44,7 +44,7 @@ Focus: **high-intent discovery**, **analytics**, **ethical AI**, and **real enga
 
 ## ⚙️ Special Utility Bots
 - **[ESN Nexus](https://nexus.esnoffical.com/)** —  
-  Security bot that stops raids and nukes and restores deleted channels and roles, plus captcha checks.
+  Security bot that stops raids and nukes, restores deleted channels and roles, and adds captcha.
 - **[Invite Tracker](https://invitetracker.gg/)** —  
   Tracks member invites and referrals with precision. Great for reward-based or growth-oriented servers.
 - **[Subo](https://subo.gg/)** —  
